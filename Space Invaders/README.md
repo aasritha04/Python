@@ -25,8 +25,7 @@ This is a simple Space Invaders game implemented using Python and Pygame. The ga
 
     ```sh
     git clone https://github.com/aasritha04/Python-Projects.git
-    cd Python-Projects
-    cd Space Invaders
+    cd Python-Projects/Space Invaders
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
