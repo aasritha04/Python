@@ -1,6 +1,6 @@
 # Python-Projects
 
-This repository contains a collection of Python projects.
+This repository contains a collection of Python projects.The details of each project is mentioned in the respective project files.
 
 ## Projects
 
