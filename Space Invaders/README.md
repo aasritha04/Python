@@ -14,6 +14,10 @@ This is a simple Space Invaders game implemented using Python and Pygame. The ga
 ## Preview
 
 
+https://github.com/user-attachments/assets/f7ce0cc5-42a3-480e-b8c7-1fc7f308f566
+
+
+
 ## Requirements
 
 - Python 3.7+
