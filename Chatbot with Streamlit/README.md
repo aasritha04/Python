@@ -26,6 +26,7 @@ This project is a simple chatbot application built using Streamlit and the OpenA
 
     ```sh
     git clone https://github.com/aasritha04/Python-Projects.git
+    cd Python-Projects
     cd Chatbot with Streamlit
     ```
 
